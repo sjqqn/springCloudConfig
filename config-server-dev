@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: 192.168.75.128
+    port: 5682
+    username: sjq
+    password: 123
